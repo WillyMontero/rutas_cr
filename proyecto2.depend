@@ -1,0 +1,198 @@
+# depslib dependency file v1.0
+1508358512 source:d:\universidad\i a—o\ll semestre\progra\progra1 2017\3-listas\proyecto2\main.cpp
+	<iostream>
+	<cstdio>
+	<winbgim.h>
+
+1510039517 source:d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyectos\proyecto2\proyecto2\src\archivos.cpp
+	"Archivos.h"
+	<cstdio>
+	<winbgim.h>
+	"Nodo.h"
+
+1510027517 d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyectos\proyecto2\proyecto2\include\archivos.h
+	"Rutas.h"
+
+1510065977 source:d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyectos\proyecto2\proyecto2\main.cpp
+	<iostream>
+	<winbgim.h>
+	"Interfaz.h"
+	"Archivos.h"
+	"Rutas.h"
+	"Nodo.h"
+
+1510036953 d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyectos\proyecto2\proyecto2\include\interfaz.h
+	"Ruta.h"
+	"Nodo.h"
+	"Rutas.h"
+	<iostream>
+
+1510037796 source:d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyectos\proyecto2\proyecto2\src\interfaz.cpp
+	"Interfaz.h"
+	<winbgim.h>
+
+1509512549 source:d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyectos\proyecto2\proyecto2\src\nodo.cpp
+	"Nodo.h"
+
+1510061224 d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyectos\proyecto2\proyecto2\include\nodo.h
+
+1510038991 d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyectos\proyecto2\proyecto2\include\ruta.h
+	"Nodo.h"
+	<iostream>
+
+1510038991 source:d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyectos\proyecto2\proyecto2\src\ruta.cpp
+	"Ruta.h"
+
+1510066504 source:d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyectos\proyecto2\proyecto2\src\rutas.cpp
+	"Rutas.h"
+	"Nodo.h"
+	<cstdio>
+	"Archivos.h"
+	"Interfaz.h"
+
+1510038991 d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyectos\proyecto2\proyecto2\include\rutas.h
+	"Ruta.h"
+
+1509509868 source:d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyectos\proyecto2\versiones\proyecto2-1.2\main.cpp
+	<iostream>
+	<winbgim.h>
+	"Interfaz.h"
+	"Archivos.h"
+	"Rutas.h"
+	"Nodo.h"
+
+1509509853 d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyectos\proyecto2\versiones\proyecto2-1.2\include\interfaz.h
+	"Ruta.h"
+	"Nodo.h"
+	<iostream>
+
+1509414788 d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyectos\proyecto2\versiones\proyecto2-1.2\include\ruta.h
+	"Nodo.h"
+
+1509412598 d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyectos\proyecto2\versiones\proyecto2-1.2\include\nodo.h
+
+1508630359 d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyectos\proyecto2\versiones\proyecto2-1.2\include\archivos.h
+
+1509505034 d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyectos\proyecto2\versiones\proyecto2-1.2\include\rutas.h
+	"Ruta.h"
+
+1508739288 source:d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyectos\proyecto2\versiones\proyecto2-1.2\src\archivos.cpp
+	"Archivos.h"
+	<cstdio>
+	<winbgim.h>
+
+1509511809 source:d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyectos\proyecto2\versiones\proyecto2-1.2\src\interfaz.cpp
+	"Interfaz.h"
+	<winbgim.h>
+
+1509412598 source:d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyectos\proyecto2\versiones\proyecto2-1.2\src\nodo.cpp
+	"Nodo.h"
+
+1509412619 source:d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyectos\proyecto2\versiones\proyecto2-1.2\src\ruta.cpp
+	"Ruta.h"
+
+1509506461 source:d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyectos\proyecto2\versiones\proyecto2-1.2\src\rutas.cpp
+	"Rutas.h"
+	"Nodo.h"
+	<cstdio>
+	"Interfaz.h"
+	"Archivos.h"
+
+1510275340 source:d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyectos\proyecto2\versiones\proyecto2-terminado toque personal\main.cpp
+	<iostream>
+	<winbgim.h>
+	"Interfaz.h"
+	"Archivos.h"
+	"Rutas.h"
+	"Nodo.h"
+
+1510036953 d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyectos\proyecto2\versiones\proyecto2-terminado toque personal\include\interfaz.h
+	"Ruta.h"
+	"Nodo.h"
+	"Rutas.h"
+	<iostream>
+
+1510038991 d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyectos\proyecto2\versiones\proyecto2-terminado toque personal\include\ruta.h
+	"Nodo.h"
+	<iostream>
+
+1510061224 d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyectos\proyecto2\versiones\proyecto2-terminado toque personal\include\nodo.h
+
+1510274676 d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyectos\proyecto2\versiones\proyecto2-terminado toque personal\include\rutas.h
+	"Ruta.h"
+
+1510027517 d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyectos\proyecto2\versiones\proyecto2-terminado toque personal\include\archivos.h
+	"Rutas.h"
+
+1510039517 source:d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyectos\proyecto2\versiones\proyecto2-terminado toque personal\src\archivos.cpp
+	"Archivos.h"
+	<cstdio>
+	<winbgim.h>
+	"Nodo.h"
+
+1510037796 source:d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyectos\proyecto2\versiones\proyecto2-terminado toque personal\src\interfaz.cpp
+	"Interfaz.h"
+	<winbgim.h>
+
+1509512549 source:d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyectos\proyecto2\versiones\proyecto2-terminado toque personal\src\nodo.cpp
+	"Nodo.h"
+
+1510038991 source:d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyectos\proyecto2\versiones\proyecto2-terminado toque personal\src\ruta.cpp
+	"Ruta.h"
+
+1510275340 source:d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyectos\proyecto2\versiones\proyecto2-terminado toque personal\src\rutas.cpp
+	"Rutas.h"
+	"Nodo.h"
+	<cstdio>
+	"Archivos.h"
+	"Interfaz.h"
+
+1510039517 source:d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyectos\proyecto2\proyecto2mouse\src\archivos.cpp
+	"Archivos.h"
+	<cstdio>
+	<winbgim.h>
+	"Nodo.h"
+
+1510027517 d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyectos\proyecto2\proyecto2mouse\include\archivos.h
+	"Rutas.h"
+
+1510274676 d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyectos\proyecto2\proyecto2mouse\include\rutas.h
+	"Ruta.h"
+
+1510038991 d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyectos\proyecto2\proyecto2mouse\include\ruta.h
+	"Nodo.h"
+	<iostream>
+
+1510061224 d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyectos\proyecto2\proyecto2mouse\include\nodo.h
+
+1510037796 source:d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyectos\proyecto2\proyecto2mouse\src\interfaz.cpp
+	"Interfaz.h"
+	<winbgim.h>
+
+1510036953 d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyectos\proyecto2\proyecto2mouse\include\interfaz.h
+	"Ruta.h"
+	"Nodo.h"
+	"Rutas.h"
+	<iostream>
+
+1509512549 source:d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyectos\proyecto2\proyecto2mouse\src\nodo.cpp
+	"Nodo.h"
+
+1510038991 source:d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyectos\proyecto2\proyecto2mouse\src\ruta.cpp
+	"Ruta.h"
+
+1510358270 source:d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyectos\proyecto2\proyecto2mouse\main.cpp
+	<iostream>
+	<winbgim.h>
+	"Interfaz.h"
+	"Archivos.h"
+	"Rutas.h"
+	"Nodo.h"
+
+1510275710 source:d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyectos\proyecto2\proyecto2mouse\src\rutas.cpp
+	"Rutas.h"
+	"Nodo.h"
+	<cstdio>
+	"Archivos.h"
+	"Interfaz.h"
+
